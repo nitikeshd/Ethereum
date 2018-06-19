@@ -1,10 +1,10 @@
-# Ethereum
+# Create Ethereum ERC20 Token using Solidity Contract Code
 
 git clone https://github.com/nitikeshd/Ethereum
 
 vi solidityContractERC20.sol
 
-# Change in Line 3-15 & 115-121
+Change in Line 3-15 & 115-121
 
 Go to http://remix.ethereum.org/
 
